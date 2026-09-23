@@ -1,6 +1,6 @@
 # Chief Drop
 
-Single-player drop game. This phase is the app shell only: a blank Phaser canvas that scales to the window. There is no gameplay yet.
+Single-player drop game.
 
 ## Runtime
 
